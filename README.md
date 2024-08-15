@@ -13,3 +13,5 @@ The analysis process consists of the following steps:
 
 - **Model Performance**: The Decision Tree Classifier's performance was assessed using various evaluation metrics, highlighting its strengths and areas for improvement.
 - **Feature Importance**: The importance of each feature in predicting the target variable was analyzed, providing insights into the most significant factors influencing the predictions.
+
+The Dataset : [kaggle.com](https://www.kaggle.com/code/shirantha/bank-marketing-data-a-decision-tree-approach/input)
